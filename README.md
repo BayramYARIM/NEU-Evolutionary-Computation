@@ -1,5 +1,5 @@
 
-## Katkı
+## Hakkında
 
 Necmettin Erbakan Üniversitesi - Evrimsel Hesaplamaya giriş dersinin ders notları ve ders içerisinde gerçekleştirilen proje dosyaları bulunmaktadır.
 
