@@ -19,7 +19,7 @@ Ders süresince ve dışında bize bilgi ve birikimini aktaran Doç.Dr. Hüseyin
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://github.com/BayramYARIM/NEU-Evolutionary-Computation/blob/main/project-docs/fuzzy_surface_output.png)
 
   
 ## Destek
